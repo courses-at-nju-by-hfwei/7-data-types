@@ -1,6 +1,6 @@
 # c-pl-github-classroom-template
 
-Programming Exercises on ....
+Programming Exercises for Mid-Review.
 
 ## 你的任务
 
